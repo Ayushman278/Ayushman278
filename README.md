@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its2ez4prince&label=Profile%20views&color=0e75b6&style=flat" alt="its2ez4prince" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushman278&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushman278" /> </p>
 <div align = "center"><img width="350" alt="Coding" align="center"   src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 </div>
 <h1 align="center">Hey👋,<br> I'm Ayushman Shivam</h1>
@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayushman278&show_icons=true&locale=en" alt="Ayushman278" /></p>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its2ez4Ayushman278&" alt="Ayushman278" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4Ayushman278&" alt="Ayushman278" /></p>
 </div>
