@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <!-- <div align = "center"> -->
 <p align="center">
-<a href="www.linkedin.com/in/ayushman-shivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushman-shivam-465bb0160" height="30" width="40" /></a>
-<a href="https://https://leetcode.com/user7771j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7771j" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushman-shivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushman-shivam-465bb0160" height="30" width="40" /></a>
+<a href="https://leetcode.com/user7771j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7771j" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayushman278&show_icons=true&locale=en" alt="Ayushman278" /></p>
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4Ayushman278&" alt="Ayushman278" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushman278&" alt="Ayushman278" /></p>
 </div>
